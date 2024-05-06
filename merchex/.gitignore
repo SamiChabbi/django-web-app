@@ -1,0 +1,13 @@
+__pycache__/
+*.log
+*.sqlite3
+*~
+.env
+*.key
+*.pem
+.history/
+/staticfiles/
+/media/
+/venv/
+/lib/
+/migrations/
